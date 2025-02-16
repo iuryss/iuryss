@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚 Atualmente estudando: React e Node.js, com o objetivo de me tornar um desenvolvedor full-stack.<br>🎯 Objetivo: Estagiar na área de desenvolvimento.<br>📫 Contato: iuryrbs@gmail.com<br>🎲 Fato Divertido: Gosto de resolver desafios de programação como HackerRank e Codewars.</p>
+<p align="left">📚 Atualmente estudando: React e Spring Boot, com o objetivo de me tornar um desenvolvedor full-stack.<br>🎯 Objetivo: Estagiar na área de desenvolvimento.<br>📫 Contato: iuryrbs@gmail.com<br>🎲 Fato Divertido: Gosto de resolver desafios de programação como HackerRank e Codewars.</p>
 
 ###
 
